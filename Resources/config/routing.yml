@@ -1,0 +1,3 @@
+cruzeiro_cep_api:
+    type:     rest
+    resource: @CruzeiroCepBundle/Controller/ApiController.php

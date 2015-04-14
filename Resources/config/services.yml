@@ -1,0 +1,4 @@
+services:
+    cruzeiro.cep.crawler_correios:
+        class: Cruzeiro\Bundle\CepBundle\Crawler\Correios
+        arguments: ['@service_container']
